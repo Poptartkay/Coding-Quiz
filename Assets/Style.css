@@ -55,9 +55,9 @@ h2{
     text-align: center;
 }
 
-.hidden {
+/* .hidden {
     display: none;
-}
+} */
 
 .btn{
     font-size: 2.4rem;
@@ -72,7 +72,7 @@ h2{
 }
 .btn:hover{
     cursor: pointer;
-    box-shadow: 0 0.4rem 1.4rem 0 #30204e;
+    box-shadow: 0 0.4rem 1.4rem 0 #19073a;
     transition: transform 150ms;
     transform: scale(1.03);
 }
